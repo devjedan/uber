@@ -1,7 +1,7 @@
-Uber Clone App
+# Uber App
 
 
-Overview
+# Overview
 This is an open-source Uber clone app developed with [react native/redux]. The purpose of this project is to showcase the development of a ride-sharing application similar to Uber. You can use this project as a reference or as a starting point for your own ride-sharing app development.
 
 Features
