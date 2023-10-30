@@ -49,6 +49,7 @@ Contributing
 We welcome contributions from the community. If you'd like to contribute to this project, please follow these steps:
 
 Fork the repository.
+
 Create a new branch for your feature or bug fix: git checkout -b feature/your-feature-name.
 Make your changes and commit them with descriptive commit messages.
 Push your changes to your fork: git push origin feature/your-feature-name.
